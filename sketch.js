@@ -79,6 +79,6 @@ function level1Mouseclicked() {
 
   function youWinMouseClicked(){
     state = 'level 1';
-    points = 0;
+    points = 1;
 
   }
